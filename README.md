@@ -11,4 +11,4 @@ Bu depo, Prophet ile zaman serisi tahmini yapan Colab defterini içerir.
 Colab'da açın ve **Runtime → Run all** deyin. Gerekli paketler ilk hücrede kuruluyor.
 
 ## Veri
-Büyük veri dosyalarını repo’ya koymayın. Kaynağa bağlantı verin veya Colab içinde indirin.
+Gerekli dataset kaggle üzerinde indirilioyr ek bir indirme gerekmiyor.
