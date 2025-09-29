@@ -4,7 +4,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/drive/1INar57ziaI7BBSSp6JekBeJJy57RVXSk#scrollTo=omc8qEYA7lJT)
-(https://colab.research.google.com/github/<YSerdarBlty>/<repo>/blob/main/notebooks/notebooks-weather_forecast.ipynb)
+(https://colab.research.google.com/github/<YSerdarBlty>/<repo>/blob/main/notebooks/weather_forecast.ipynb)
 
 
 Bu depo, Prophet ile zaman serisi tahmini yapan Colab defterini içerir.
